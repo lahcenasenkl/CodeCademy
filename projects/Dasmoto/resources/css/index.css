@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url(/projects/Dasmoto/resources/images/pattern.webp);
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: lightskyblue;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
