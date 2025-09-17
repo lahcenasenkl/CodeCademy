@@ -1,0 +1,59 @@
+/* This is a simple comment */
+
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    padding-top: 10px;
+}
+
+.tag, .attribute {
+    background-color: beige;
+    font-family: monospace;
+}
+
+body {
+    background-color: paleturquoise;
+    font-family: Roboto, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color: darkcyan;
+}
+
+table {
+    border: 2px solid darkslategray;
+    text-align: start;
+    margin: 0 auto;
+    width: 600px;
+}
+
+th {
+    background-color: darkcyan;
+    color: antiquewhite;
+}
+
+td {
+    border-style: groove;
+    border-color: darkcyan;
+    border-width: 1px;
+}
+
+caption {
+    caption-side:bottom;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 5px;
+    }
+
+footer p {
+        font-size: small;
+        font-style: italic;
+        text-align: center;
+    }
